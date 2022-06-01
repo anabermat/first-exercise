@@ -4,7 +4,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        int[] intArray = {-1,5,27,4,10};
+        int[] intArray = {29,7,27,4,10};
         int dif = difference(intArray);
         System.out.println(dif);
 
